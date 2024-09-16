@@ -90,7 +90,7 @@
 		"sequelize": "^6.21.4",
 		"simple-youtube-api": "^5.2.1",
 		"soundcloud-downloader": "^1.0.0",
-		"sqlite3": "^5.1.1",
+		"sqlite3": "^7.5.3",
 		"string-similarity": "^4.0.4",
 		"systeminformation": "^5.21.11",
 		"tinyurl": "^1.1.7",
