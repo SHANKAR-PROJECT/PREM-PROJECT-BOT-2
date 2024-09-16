@@ -60,7 +60,7 @@
     "semver": "",
     "sequelize": "^6.33.0",
     "simple-youtube-api": "",
-    "sqlite3": "",
+    "sqlite3": "^2.1.0",
     "string-similarity": "",
     "systeminformation": "^5.18.4",
     "tinyurl": "^1.1.7",
