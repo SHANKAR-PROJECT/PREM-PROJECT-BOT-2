@@ -2,7 +2,7 @@
   "name": "SHANKAR-BOT",
   "version": "3.5.0",
   "description": "Developed by Niio-team",
-  "main": "priyansh.js",
+  "main": "PREM-BABU.js",
   "scripts": {
     "start": "node index",
     "login": "node login",
