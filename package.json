@@ -1,6 +1,6 @@
 {
   "name": "SHANKAR-BOT",
-  "version": "10.1.1",
+  "version": ">=16",
   "description": "Developed by Niio-team",
   "main": "PREM-BABU.js",
   "scripts": {
